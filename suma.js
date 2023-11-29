@@ -5,3 +5,7 @@ function sayHello() {
 function branchA() {
     console.log("Branch A changed")
 }
+
+function branchB() {
+    console.log8("branch B added")
+}
